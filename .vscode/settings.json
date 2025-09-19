@@ -1,0 +1,8 @@
+{
+    "python-envs.pythonProjects": [],
+     "files.exclude": {
+    "**/._*": true,
+    "**/.DS_Store": true
+},
+"python.REPL.enableREPLSmartSend": false
+}
